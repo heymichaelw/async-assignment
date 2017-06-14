@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.input-body{
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+}
+
+.coffee-div{
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.homepage{
+  display: flex;
+  flex-flow: column wrap;
+}
